@@ -1,0 +1,2 @@
+Aim of the project is to perform Market Risk Estimation of companies using a graph representation of temporal information. We combine the financial data and news sentiment data over a year and half and predict the Risk Class for the company for the next half year. 
+Refer to the thesis for more information.

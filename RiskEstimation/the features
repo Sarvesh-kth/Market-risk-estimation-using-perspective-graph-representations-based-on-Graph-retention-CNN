@@ -1,0 +1,14 @@
+1. Income Statement: Operating Income (Loss): Net Income: Interest Expense, Net:
+2. Balance Sheet:Total Assets:
+Total Liabilities:
+Total Equity: Long Term Debt:
+3. Cash Flow Statement: Net Cash from Operating Activities:
+Net Cash from Financing Activities: Change in Working Capital:
+4. Derived Figures and Ratios: EBITDA: Net Profit Margin: Efficiency at converting revenue into actual profit.
+Return on Equity: Debt Ratio: Net Debt / EBITDA:
+5. Market Data:
+Close Price (daily): Volume (daily):
+6. Market Ratios:Price to Earnings Ratio (ttm):
+EV/EBITDA:
+
+For Quarterly nodes, we add Operating Income (Loss), Net Income, Interest Expense, Net from income_quarterly, we add  Net Cash from Operating Activities, Net Cash from Financing Activities, Change in Working Capital from cashflow_quarterly , we add EBITDA, Net Profit Margin ,Return on Equity, Debt Ratio, Net Debt / EBITDA from derived__quarterly.
